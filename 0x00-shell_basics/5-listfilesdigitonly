@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -l .* [0-9]* R*
+#!/bin/bash 
+ls ".*" R* [0-9]*
