@@ -1,2 +1,2 @@
 #!/bin/bash
-tree usr/ 
+find . -type d -links +2
